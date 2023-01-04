@@ -1,0 +1,3 @@
+﻿  splite_a_string_dynamically.cpp
+C:\Users\User\Desktop\CodingWorld\splite_a_string_dynamically\splite_a_string_dynamically.cpp(18,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  splite_a_string_dynamically.vcxproj -> C:\Users\User\Desktop\CodingWorld\splite_a_string_dynamically\x64\Debug\splite_a_string_dynamically.exe
