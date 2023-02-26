@@ -1,0 +1,4 @@
+﻿  Leetcode-test.cpp
+C:\Users\User\Desktop\CodingCheatSheet\CodingWorld\Leetcode-test\Leetcode-test.cpp(15,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\CodingCheatSheet\CodingWorld\Leetcode-test\Leetcode-test.cpp(25,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Leetcode-test.vcxproj -> C:\Users\User\Desktop\CodingCheatSheet\CodingWorld\Leetcode-test\x64\Debug\Leetcode-test.exe
